@@ -89,8 +89,7 @@ start CleanHouse
 
 echo Paradox Coders Team
 
-
-git push
+git push 
 
 start CleanHouse
 echo FINISHED
